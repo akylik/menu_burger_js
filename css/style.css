@@ -116,18 +116,9 @@ body._lock {
    border-radius: 50%;
    background-color: #fff;
 }
-.header__menu {
-}
-.menu {
-}
 
 .menu__icon {
    display: none;
-}
-.menu__body {
-}
-
-.menu__list {
 }
 
 .menu__list > li {
@@ -152,6 +143,7 @@ body._lock {
    padding: 15px;
    min-width: 200px;
 }
+
 .menu__sub-list li{
    margin: 0px 0px 10px 0px;
 }
